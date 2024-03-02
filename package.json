@@ -1,4 +1,5 @@
 {
+
   "dependencies": {
     "helorganizexnpm": "^1.1.0"
   },
@@ -17,7 +18,7 @@
   "author": "suresh1989",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/suresh87/tea-code-npm/issues"
+    "url": "git+https://github.com/suresh87/tea-code-npm.git"
   },
   "homepage": "https://github.com/suresh87/tea-code-npm#readme"
 }
