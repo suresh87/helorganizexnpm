@@ -1,10 +1,10 @@
 {
 
   "dependencies": {
-    "helorganizexnpm": "^1.1.0"
+    "helorganizexnpm": "^1.1.1"
   },
   "name": "helorganizexnpm",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "helorganizexnpm",
   "main": "index.js",
   "devDependencies": {},
